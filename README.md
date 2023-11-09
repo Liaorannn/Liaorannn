@@ -37,11 +37,7 @@
 #### 🎯 My Github Stats:
  <a href="http://www.github.com/Liaorannn"><img src="https://github-readme-stats.vercel.app/api?username=Liaorannn&show_icons=true&hide=&count_private=true&title_color=14b8a6&text_color=ffffff&icon_color=a855f7&bg_color=1c1917&hide_border=true&show_icons=true" alt="Liaorannn's GitHub stats" /></a>  <a href="http://www.github.com/Liaorannn"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Liaorannn&stroke=ffffff&background=1c1917&ring=14b8a6&fire=14b8a6&currStreakNum=ffffff&currStreakLabel=14b8a6&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
-
-### 🚀 My Contributions:
-<br clear="both">
+#### 🚀 My Contributions:
 <img src="https://raw.githubusercontent.com/Liaorannn/Liaorannn/output/snake.svg" alt="Snake animation" />
 
-<img align="centre" alt="GIF" src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="900"/>
+<img align="central" src="https://user-images.githubusercontent.com/74038190/242390524-0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b.gif" alt="GIF" width="1050">
