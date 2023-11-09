@@ -10,7 +10,7 @@
 - 🏠 &nbsp; From Shenzhen, China.
 - 🎓 &nbsp; Currently study in HKUST, majoring in Financial Mathematics.
 - 📚 &nbsp; Interested in both p-Quants and q-Quants.
-- 📝 &nbsp; Researching in Deep Learning & Reinforcement Learning & Alpha Quant & Structural Derivatives Pricing & Trading
+- 📝 &nbsp; Researching in DL & RL & Alpha Quant & Structural Derivatives Pricing
 - ✉️ &nbsp; Contact me at [liaoran2019@163.com](mailto:liaoran2019@163.com)
 
 ### **🔨 Languages and Tools**:
