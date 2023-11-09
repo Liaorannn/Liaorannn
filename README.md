@@ -1,5 +1,5 @@
 <a href="https://moon-svg.minung.dev"><img src="https://moon-svg.minung.dev/moon.svg?size=100&theme=basic&rotate=0" alt="moon.svg" align="right"></a>
-## Hey,👋  I'm Aoran, Li! 
+## Hey,👋  I'm Aoran Li ! 
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&duration=5100&pause=1020&color=03F7CC&center=true&vCenter=true&random=false&width=1000&lines=Welcome+to+my+Github!)](https://git.io/typing-svg)
 
