@@ -13,14 +13,14 @@
 - 📝 &nbsp; Researching in Deep Learning & Reinforcement Learning & Alpha Quant & Structural Derivatives Pricing & Trading
 - ✉️ &nbsp; Contact me at [liaoran2019@163.com](mailto:liaoran2019@163.com)
 
-#### **🔨 Languages and Tools**:
+### **🔨 Languages and Tools**:
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=py,pytorch,git,mysql,cpp,linux" />
   </a>
 </p>
 
-#### **📲 Social Link**:
+### **📲 Social Link**:
 <div align="left">
   <a href="https://www.linkedin.com/in/aoran-li-0b143b24a/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="linkedin logo"  />
@@ -34,10 +34,10 @@
   </a>
 </div>
 
-#### 🎯 My Github Stats:
+### 🎯 My Github Stats:
  <a href="http://www.github.com/Liaorannn"><img src="https://github-readme-stats.vercel.app/api?username=Liaorannn&show_icons=true&hide=&count_private=true&title_color=14b8a6&text_color=ffffff&icon_color=a855f7&bg_color=1c1917&hide_border=true&show_icons=true" alt="Liaorannn's GitHub stats" /></a>  <a href="http://www.github.com/Liaorannn"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Liaorannn&stroke=ffffff&background=1c1917&ring=14b8a6&fire=14b8a6&currStreakNum=ffffff&currStreakLabel=14b8a6&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-#### 🚀 My Contributions:
+### 🚀 My Contributions:
 <img src="https://raw.githubusercontent.com/Liaorannn/Liaorannn/output/snake.svg" alt="Snake animation" />
 
 <img align="central" src="https://user-images.githubusercontent.com/74038190/242390524-0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b.gif" alt="GIF" width="1050">
