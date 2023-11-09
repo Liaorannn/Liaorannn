@@ -1,7 +1,7 @@
 <a href="https://moon-svg.minung.dev"><img src="https://moon-svg.minung.dev/moon.svg?size=100&theme=basic&rotate=0" alt="moon.svg" align="right"></a>
 ## Hey,👋  I'm Aoran, Li! 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=23&duration=5030&pause=1010&color=45F7C0&background=000E3A&center=true&vCenter=true&random=false&width=900&lines=Welcome+to+my+Github!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&duration=5100&pause=1020&color=03F7CC&center=true&vCenter=true&random=false&width=1000&lines=Welcome+to+my+Github!)](https://git.io/typing-svg)
 
 <img align="right" alt="GIF" src="https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif" width="450"/>
 
