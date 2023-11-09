@@ -3,7 +3,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=23&duration=5030&pause=1010&color=45F7C0&background=000E3A&center=true&vCenter=true&random=false&width=900&lines=Welcome+to+my+Github!)](https://git.io/typing-svg)
 
-<img align="right" alt="GIF" src="https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif" width="500"/>
+<img align="right" alt="GIF" src="https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif" width="450"/>
 
 ### **🧐 More About Me:**
 
@@ -16,7 +16,7 @@
 #### **🔨 Languages and Tools**:
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,r,pytorch,git,mysql,cpp,linux" />
+    <img src="https://skillicons.dev/icons?i=py,pytorch,git,mysql,cpp,linux" />
   </a>
 </p>
 
