@@ -28,7 +28,7 @@
   <a>
     <img src="https://img.shields.io/static/v1?message=Email&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="gmail logo"  />
   </a> 
-  <a href="https://www.x.com/liaoran42300571" target="_blank">
+  <a href="" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Twitter&logo=x&label=&color=black&logoColor=white&labelColor=black&style=for-the-badge" height="30" alt="twitter logo"  />
   </a>
   <a href="https://www.kaggle.com/" target="_blank">
